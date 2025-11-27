@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Binarios C++
+*.exe
+*.out
+*.o
+*.so
+*.dll
+
+# Carpeta de compilación
+build/
+
+# Resultados generados
+results/
+*.png
+
+# Otros temporales
+*.log
